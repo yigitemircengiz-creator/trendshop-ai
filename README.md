@@ -31,8 +31,6 @@ cp .env.example .env
 python app.py
 ```
 
-App runs at http://localhost:5000
-
 ## Test Data
 
 | Order No   | Status             | Customer        |
